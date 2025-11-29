@@ -3,7 +3,7 @@
 This repository contains Jupyter notebooks and supplementary resources designed to reproduce experiments in software requirements classification using Large Language Models (LLMs). The workflow encompasses the categorization of LLMs, preprocessing and organization of requirement datasets, and the execution of classification experiments both locally and via Google Colab.
 
 Contributors:
-Dhyey Shekhaliya (PDEU)
+Dhyey Shekhaliya (PDEU),
 Dr. Arpit Sharma (IISER Bhopal)
 
 ---
