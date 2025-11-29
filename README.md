@@ -1,8 +1,10 @@
 # LLM-for-CrowdRE-Classification
 
-This repository provides Jupyter notebooks and resources to replicate experiments on **software requirement classification** using **Large Language Models (LLMs)**.
+This repository contains Jupyter notebooks and supplementary resources designed to reproduce experiments in software requirements classification using Large Language Models (LLMs). The workflow encompasses the categorization of LLMs, preprocessing and organization of requirement datasets, and the execution of classification experiments both locally and via Google Colab.
 
-The workflow includes categorizing LLMs, preparing requirement datasets, and running classification experiments either locally or in Google Colab.
+Contributors:
+Dhyey Shekhaliya (PDEU)
+Dr. Arpit Sharma (IISER Bhopal)
 
 ---
 
