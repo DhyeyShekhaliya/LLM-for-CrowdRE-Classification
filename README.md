@@ -6,6 +6,8 @@ Contributors:
 Dhyey Shekhaliya (PDEU),
 Dr. Arpit Sharma (IISER Bhopal)
 
+Accepted in ACM SAC'26
+
 ---
 
 ## 📋 Prerequisites
